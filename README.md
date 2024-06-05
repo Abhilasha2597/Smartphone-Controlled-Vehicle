@@ -1,2 +1,3 @@
-# Smartphone-Controlled-Vehicle-
+# Smartphone-Controlled-Vehicle
 Mini project (Smartphone control Vehicle Project)
+Smartphone is used as remote mobile (Arduino Bluetooth Control) which operates the vehicle using Android Application and Bluetooth module to send instruction to Arduino UNO. Bluetooth module is used for wireless communication between two devices or no of devices. The data received by the Bluetooth module from android smartphone is fed input to the controller. The controller acts accordingly on the DC motor of the robot. Here,the controller is Arduino UNO. The robot can  moved in all the four directions using the android phone. The instructions from Bluetooth module to Arduino UNO plays an important role and it sends its output to Motor driver so that motor can rotate and hence the car or vehicle can be moved from one location to another.
